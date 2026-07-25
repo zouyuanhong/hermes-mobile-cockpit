@@ -1,0 +1,12 @@
+{
+  "name": "hermes-mobile-cockpit",
+  "label": "移动驾驶舱",
+  "description": "Hermes 任务监听、原生指令注入与 WebLLM 平台状态。",
+  "icon": "Radio",
+  "version": "0.1.0",
+  "tab": {"path": "/mobile-cockpit", "position": "after:chat"},
+  "slots": [],
+  "entry": "dist/index.js",
+  "css": "dist/style.css",
+  "api": "plugin_api.py"
+}

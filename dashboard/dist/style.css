@@ -1,0 +1,6 @@
+.mobile-cockpit { max-width: 720px; margin: 0 auto; padding: 16px; }
+.mobile-cockpit section { border: 1px solid #8885; border-radius: 12px; margin: 12px 0; padding: 12px; }
+.mobile-cockpit article { border-top: 1px solid #8884; padding: 10px 0; display: grid; gap: 6px; }
+.mobile-cockpit textarea { box-sizing: border-box; min-height: 90px; width: 100%; padding: 10px; }
+.mobile-cockpit button { min-height: 40px; margin-top: 8px; padding: 8px 12px; }
+.mobile-cockpit .muted { opacity: .72; }
